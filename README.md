@@ -10,3 +10,5 @@ Deploy serverless applications, using **`AWS Lambda`**. `AWS Lambda` is a comput
 - More time focused on writing code, which leads to a higher developer velocity.
 - Functional programming is a design well suited to distributed computing. Instead of scaling your entire application, you can scale your functions
   automatically and independently with usage.
+
+*** Working with `AWS Lambda` on *Cloud9* environment ***
