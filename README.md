@@ -1,6 +1,6 @@
 # Serverless [FaaS] 🚀
 
-*** Working with `AWS Lambda` on *Cloud9* environment ***
+**Working with `AWS Lambda` on _Cloud9_ environment**
 
 Deployed serverless applications, using **`AWS Lambda`**. `AWS Lambda` is a compute service that lets you run code **without provisioning or managing servers**.
 
