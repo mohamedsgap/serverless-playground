@@ -1,6 +1,8 @@
 # Serverless [FaaS] 🚀
 
-Deploy serverless applications, using **`AWS Lambda`**. `AWS Lambda` is a compute service that lets you run code **without provisioning or managing servers**.
+*** Working with `AWS Lambda` on *Cloud9* environment ***
+
+Deployed serverless applications, using **`AWS Lambda`**. `AWS Lambda` is a compute service that lets you run code **without provisioning or managing servers**.
 
 `AWS Lambda` executes your code only when needed and scales automatically, from a few requests per day to thousands per second.
 
@@ -11,4 +13,4 @@ Deploy serverless applications, using **`AWS Lambda`**. `AWS Lambda` is a comput
 - Functional programming is a design well suited to distributed computing. Instead of scaling your entire application, you can scale your functions
   automatically and independently with usage.
 
-*** Working with `AWS Lambda` on *Cloud9* environment ***
+_Deployed these two scripts `test.py` & `wiki_lambda_api.py` on **AWS Lambda** and integrated with them through the provided `API Gatway`_
